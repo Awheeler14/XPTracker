@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5e759cda-2d66-4187-8978-f9bb7bcc30df" alt="XP Tracker" width="500">
+  <img src="https://github.com/user-attachments/assets/9bb2a772-38f5-4acb-a8d9-cfca9c5e6381" alt="XP Tracker" width="500">
 </div>
 
 ## 🎮 Introduction 
